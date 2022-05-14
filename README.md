@@ -12,5 +12,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ->Anything you like❤
 - 📫 How to reach me:-> Will update soon✌
 <!-- 😄 Pronouns: -->
-- ⚡ Fun fact: -> I'm just a beginner😄
 
