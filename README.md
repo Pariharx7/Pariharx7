@@ -5,21 +5,16 @@
 
 Here are some ideas to get you started:
 -->
-<div id="header" align="center">
-  <img src="https://media4.giphy.com/media/IeRdg7gLkfK1ly2mFU/giphy.gif?cid=6c09b952fd604d78b2384a6f205cecee005aed924df81d56&rid=giphy.gif&c"/>
-</div>
 
-- 🔭 I’m currently working on -> what Open Source is and how can I contribute
+
+- 🔭 I’m currently working on -> my Open Source Journey
 - 🌱 I’m currently learning -> Data Structure and Algorithm in Java
 - 👯 I’m looking to collaborate on -> better opportunities to work and build a good resume
-- 🤔 I’m looking for help with -> Open source and Internships/Scholarships
 - 💬 Ask me about ->Anything you like❤
 - 📫 How to reach me:-> Will update soon✌
 <!-- 😄 Pronouns: -->
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+
 
 
 ### :hammer_and_wrench: Languages and Tools :
