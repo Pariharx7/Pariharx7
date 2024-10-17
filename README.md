@@ -26,13 +26,13 @@
 Here are some ideas to get you started:
 -->
 
-
+<!--
 - 🔭 I’m currently working on Open Source
 - 🌱 I’m currently learning Data Structure and Algorithms in Java
 - 👯 I’m looking to collaborate
 - 💬 Ask me about anything you like❤
 
-<!-- 😄 Pronouns: -->
+ 😄 Pronouns: -->
 
 
 
